@@ -7,7 +7,7 @@
 * I'm interested in all areas of web development, right now I'm working with Neural Networks and how can I implement recommendation engines on the web  
 
 ## What I'm working on 💻
-I'm currently working on a website called [what2watch](https://what2w.com) which is a Firebase hosted web application which helps you figure out, what to watch using recommender engine. It is still beta though.
+I'm currently working on a website called [what2watch](https://www.what2w.com) which is a Firebase hosted web application which helps you figure out, what to watch using recommender engine. Although it's still work in progress, there is a paper explaining Neural Networks to the very beginners alongside it
 
 ## What have I done ❓❗
 So far I've made 2 websites, 1 for an metal festival called [Monster of Metal](https://www.monsterofmetal.cz) and second for a local printing office which has sadly not been published yet.  
