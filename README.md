@@ -1,15 +1,24 @@
-# Hey there 😎
+# Hey, I'm Kotvič 👋
+📚 Math major undergrad @ FJFI ČVUT specializing in mathematical modelling   
+🔥 Building math-driven web applications and tools to solve everyday headaches
 
-## Who am I 🤓
-* I'm Kotvič, undergrad student and self taught programmer  
-* My stack contains HTML, CSS and JS  
-* Currently, I am working as a freelance web developer and tinkering around with coding stuff  
-* I'm interested in most areas of web development, right now I'm working with Neural Networks and how can I implement recommendation engines on the web, and other highly mathematical concepts
+## 🧠 About
+Started with **HTML/CSS/JS**, now diving into **Python**.
+I'm especially interested in **neural networks** and the theory behind them.
 
-## What I'm working on 💻
-I'm currently working on a website called [what2watch](https://www.what2w.com) which is a Firebase hosted web application which helps you figure out, what to watch using recommender engine. Although it's still work in progress, there is a paper explaining Neural Networks to the very beginners alongside it
+## 🚀 Projects
+* 🎬 Developing [what2watch](https://www.what2w.com), a movie & TV show recommender web app, infused with neural networks
+* 💍 Building [Phibo](https://github.com/KotvicCodes/Phibo), a browser extension for analysing **Oura** ring data
+* ✍️ Writing about everyday life and the occasional philosophical rabbit hole on my [blog](https://www.kotvic.cz/) (Czech only)
+* 🎸 [Monster of Metal](https://www.monsterofmetal.cz), a website for a metal festival
+* 🎵 [Musicalist](https://github.com/KotvicCodes/musicalist), an Electron app for extracting song metadata and analysing your music taste
+* 🍪 [Alakazam](https://github.com/KotvicCodes/Alakazam), a browser extension for automating Cookie Clicker
 
-## What have I done ❓❗
-So far I've made 2 websites, 1 for an metal festival called [Monster of Metal](https://www.monsterofmetal.cz) and second for a local printing office which hasn't been published yet  
-I have also made plenty of helpful tool for me and my friends, mostly for our everyday life as high school students. One example would be quadratic equation solver which you can find in [Mathemizer repo](https://github.com/KotvicCodes/Mathemizer)
-You can also check my progress on my new app [Musicalist](https://github.com/KotvicCodes/musicalist) which helps you get a lot of metadata about songs especially from Spotify
+## 🎓 Academic Projects
+* [PPY1](https://github.com/KotvicCodes/PPY1): Python fundamentals
+* [ZALG](https://github.com/KotvicCodes/ZALG): Algorithms & data structures
+* [ZPRO](https://github.com/KotvicCodes/ZPRO): Programming basics
+* [Mathemizer](https://github.com/KotvicCodes/Mathemizer): Math tools and assignments built to help students through high school and uni
+
+## 📫 Contact  
+Would love to chat, feel free to reach out via GitHub!
