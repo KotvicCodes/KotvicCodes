@@ -1,5 +1,5 @@
 # Hey, I'm Kotvič 👋
-📚 Math major undergrad at [CTU/FNSPE](https://fjfi.cvut.cz/en) (Faculty of Nuclear Sciences and Engineering) specializing in mathematical modelling   
+📚 Math major undergrad at [CTU/FNSPE](https://fjfi.cvut.cz/en)   
 🔥 Building math-driven web applications and tools to solve everyday headaches
 
 ## 🧠 About
