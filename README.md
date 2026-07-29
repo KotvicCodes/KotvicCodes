@@ -3,7 +3,7 @@
 🔥 Building math-driven web applications and tools to solve everyday headaches
 
 ## 🧠 About
-I work across **TypeScript**, **JavaScript**, and **Python**, mostly on browser extensions, Electron desktop apps, and web apps.
+I work across **TypeScript**, **JavaScript**, and **Python**, mostly on browser extensions, Electron desktop apps, and web apps, with a bit of embedded/hardware work on the side.
 Comfortable with **Electron** and **Chrome extensions**.
 I'm especially interested in **neural networks** and the theory behind them.
 
@@ -19,7 +19,8 @@ I'm especially interested in **neural networks** and the theory behind them.
 
 ## 🎓 Academic Projects
 * [ZALG](https://github.com/KotvicCodes/ZALG): Data structures & algorithms, including binary search trees, graphs, sorting, linked lists, and the Hanoi tower problem
+* [FyS](https://github.com/KotvicCodes/FyS): Physics research project measuring detector output with a Raspberry Pi Pico, analysing captured signal data in Python
 * [ZPRO](https://github.com/KotvicCodes/ZPRO): Intro Python exercises, from prime-finding scripts to small simulations
 
 ## 📫 Contact  
-Would love to chat, feel free to reach out via GitHub!
+Would love to chat, feel free to reach out on [Twitter / X](https://x.com/Kotvic_cz)
