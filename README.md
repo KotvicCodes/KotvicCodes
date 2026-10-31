@@ -12,6 +12,7 @@ I'm especially interested in **neural networks** and the theory behind them.
 * 💍 [Phibo](https://github.com/KotvicCodes/Phibo): Local-first browser extension for analysing **Oura** ring data, built with Svelte, TypeScript, and Dexie so health data never leaves the device
 * 💰 [Wealth Tracker](https://wealth-tracker-nine-phi.vercel.app/): Webapp for all the world's billionaires with rankings, analytics and self-updating via a daily cron
 * 🎸 [Monster of Metal](https://www.monsterofmetal.cz): Website made for a metal festival
+* 📝 [Diffs](https://github.com/KotvicCodes/Diffs): Local-first text comparison app with editable side-by-side diffs, bundled into one HTML file for offline use ([download](https://github.com/KotvicCodes/Diffs/releases/latest))
 * 🍪 [Alakazam](https://github.com/KotvicCodes/Alakazam): Chrome extension that optimises Cookie Clicker runs through payback scoring, without using cheats
 * 🎵 [Musicalist](https://github.com/KotvicCodes/musicalist): Electron app for extracting song metadata and analysing your music taste
 * 🎬 [what2watch](https://www.what2w.com): Movie & TV show recommender web app, infused with neural networks
